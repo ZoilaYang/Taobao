@@ -1,0 +1,12 @@
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\obj\x86\Debug\Automation.csprojResolveAssemblyReference.cache
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\obj\x86\Debug\Automation.Form1.resources
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\obj\x86\Debug\Automation.Properties.Resources.resources
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\obj\x86\Debug\Automation.csproj.GenerateResource.Cache
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\bin\Debug\Automation.exe.config
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\bin\Debug\Automation.exe
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\bin\Debug\Automation.pdb
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\bin\Debug\Newtonsoft.Json.dll
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\bin\Debug\nunit.framework.dll
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\obj\x86\Debug\Automation.exe
+c:\users\yang\documents\visual studio 2010\Projects\Automation\Automation\obj\x86\Debug\Automation.pdb
